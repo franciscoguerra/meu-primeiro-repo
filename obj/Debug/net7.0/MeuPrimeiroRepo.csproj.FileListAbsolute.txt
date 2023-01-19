@@ -1,0 +1,15 @@
+C:\Users\NETO\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.exe
+C:\Users\NETO\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.deps.json
+C:\Users\NETO\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\Users\NETO\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.dll
+C:\Users\NETO\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.pdb
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.csproj.AssemblyReference.cache
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.dll
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\refint\MeuPrimeiroRepo.dll
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.pdb
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.genruntimeconfig.cache
+C:\Users\NETO\MeuPrimeiroRepo\obj\Debug\net7.0\ref\MeuPrimeiroRepo.dll
